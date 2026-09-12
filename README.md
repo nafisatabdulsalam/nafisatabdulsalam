@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# I’m Nafisat
+# Hi there 👋, I’m Nafisat
 
 I’m a Mechatronics Engineering undergraduate at the Federal University of Technology, Minna, developing research experience in **computer vision and machine perception**.
 
